@@ -1,0 +1,35 @@
+.menu{
+    width: 20%;
+    min-height: 100vh;
+    background-color: #288690;
+    float: left;
+}
+
+.ul-menu{
+    padding: 0;
+  }
+  
+.li-menu{
+    border: 2px solid black;
+    border-radius: 5px;
+    list-style: none;
+    padding: 10px;
+    text-align: center;
+    margin: 3px;
+  }
+
+.li-menu:hover{
+    background: whitesmoke;
+}
+
+a:hover{
+    color: black;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+  
+    
+  }
